@@ -3,3 +3,5 @@
 
 currentPath=`pwd`
 echo "La ubicación actual es $currentPath"
+
+#To debug your code we can use bash -x or bash -v
